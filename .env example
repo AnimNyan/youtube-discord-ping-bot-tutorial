@@ -1,0 +1,4 @@
+TOKEN = tJQFBGPYopLcvpUdCUdDRhpcITJDLwdmSznIhjslcwNYNkVNcaWYloYrKSVfIsoBiWfwEJUI
+GUILD_ID = 300583993674305700
+CLIENT_ID = 2853242394931473688
+MONGODB_URI = mongodb+srv://yourusername:yourpassword@yourmongodbatlasurl
